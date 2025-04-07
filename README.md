@@ -1,6 +1,4 @@
-- 🔆 I’m @UnaisahAhmed
-- 💌 How to reach me: ua2192@barnard.edu
-- 🌷 Fun fact: My favorite time of year is tulip season.
+Unaisah Ahmed
 
 <!---
 UnaisahAhmed/UnaisahAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
