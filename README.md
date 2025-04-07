@@ -1,9 +1,5 @@
 - 🔆 I’m @UnaisahAhmed
-- 💭 I’m interested in sustainable manfacturing and product development.
-- 🌱 I’m currently learning art history and computer science.
-- 🤝 I'm looking to work on mini projects related to collaborative platforms.
 - 💌 How to reach me: ua2192@barnard.edu
-- 😄 Pronouns: she/her
 - 🌷 Fun fact: My favorite time of year is tulip season.
 
 <!---
